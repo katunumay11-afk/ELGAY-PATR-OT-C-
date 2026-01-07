@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/QuestionsScene.unity
     guid: 668301cf8a035364b97a5da6d2437a00
+  - enabled: 1
+    path: Assets/Scenes/HospitalScene.unity
+    guid: f3912e5ed818c7642b2179f21145b903
+  - enabled: 1
+    path: Assets/Scenes/biologyscane.unity
+    guid: 88ce46ad47c5a2e5abf73dfa8f5a838c
+  - enabled: 1
+    path: Assets/Scenes/AssetScene.unity
+    guid: b5b5236d904bf514c9879d3434271cab
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -7,8 +7,17 @@ public class MenuManager : MonoBehaviour
     // Start butonuna tıklanınca çalışacak fonksiyon
     public void StartGame()
     {
-        SceneManager.LoadScene("QuestionsScene");
+        SceneManager.LoadScene("biologyscane");
     }
+    public void farmscane()
+    {
+        SceneManager.LoadScene("AssetScene");
+    }
+
+    public void hospitalcane()
+        {
+            SceneManager.LoadScene("HospitalScene");
+        }
 
     // Oyunu kapatmak için (QuitButton için)
     public void QuitGame()
